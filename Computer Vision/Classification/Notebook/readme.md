@@ -1,1 +1,1 @@
-<h3>The folder consists all the  notebook files.</h3>
+<h3>The folder consists all the notebooks.</h3>
